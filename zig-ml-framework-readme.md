@@ -65,7 +65,7 @@ Contributions to improve and extend this framework are welcome. Please submit pu
 
 ## License
 
-[Insert your chosen license here]
+[Insert your chosen license here](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
 ## Disclaimer
 
